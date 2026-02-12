@@ -1,0 +1,5 @@
+numpy		pip install numpy
+scipy		pip install scipy
+pyqtgraph	pip install pyqtgraph
+PyQt5		pip install PyQt5
+bleak		pip install bleak
