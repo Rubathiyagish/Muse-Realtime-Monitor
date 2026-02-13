@@ -108,7 +108,8 @@ This software is for educational and research purposes only. It is not a medical
 Author: Rubathiyagish 
 (rubathiyagish@gmail.com)
 
-Mentor/Guide: Prof.Sandeep Budde
+Mentor/Guide: Dr.Sandeep Budde 
+(sandeepvarmabudde@gmail.com)
 
 Institution: NITTE School of Architecture Planning and Design (NITTE SAPD), Bengaluru
 
