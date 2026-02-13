@@ -111,7 +111,7 @@ Author: Rubathiyagish
 Mentor/Guide: Dr.Sandeep Budde 
 (sandeepvarmabudde@gmail.com)
 
-Institution: NITTE School of Architecture Planning and Design (NITTE SAPD), Bengaluru
+Institution: NITTE School of Architecture Planning and Design, Bengaluru
 
 ##  License
 
