@@ -97,7 +97,7 @@ This tool visualizes the following standard EEG bands:
 
 ##  Contributing
 
-Contributions are welcome! If you have a bug fix or a new feature (like Neurofeedback audio), please fork the repository and submit a pull request.
+Contributions are welcome! If you have a bug fix or a new feature, please fork the repository and submit a pull request.
 
 ##  Disclaimer
 
